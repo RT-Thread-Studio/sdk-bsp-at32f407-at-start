@@ -29,7 +29,7 @@ chip:
   uart_name: UART1
 docs:
 - category: other
-  file: documents/AT_START_F407_V1.2_SCH
+  file: documents/AT_START_F407_V1.2_SCH.pdf
   title: Schematic
 - category: manual
   file: documents/UM_AT_START_F407_V1.20.pdf
@@ -81,7 +81,6 @@ template_projects:
     - README.md
     - rtconfig.h
     - rtconfig.py
-    - rtconfig.pyc
     - rtconfig_preinc.h
     - SConscript
     - SConstruct
